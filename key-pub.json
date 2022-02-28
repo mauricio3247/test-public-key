@@ -1,0 +1,9 @@
+[
+    {
+        "kty": "RSA",
+        "n": "oC8LWIJl_9WxRecBpX8KuIeRtAsOWYFJjNGRqUxELygxUO3NJ9rmOavIq57Gi_vllzVZPoTOfAiyB89uP5gV0bMnk4MmOq0IXbbmk-P2VAwyrBeykx7YfALyAANLem15twVqyaZLCd4rPYcC-yqvzyyAabQ-tapSoWPrDSfbR2Iu6X9USVwm_gFIH_5jpDKB6DSVxElekpVOVAwd9DqFIzXt_5YFA8eAXUZs9Z9_zkzgRtUf7d53X4lmZf0A3EPHkDTbzHTyVCQnu4Ak5M3eNPgkX8sGvCJ4-QtdcbLKE9-Pjzm91tzL-U0CEmCvWOfNzR0yFf0yioUYQMIEjtz6abNxiMT2Hq8oaGGjfg1MkVtIX8OHGMTiCsCF23vHfmWGpi0fP6VfTe9ZFc7cKc6tR0GG3BfRvaKKmF4AqXtv_WkHBm60omU9DEYH07ojnqTkiVHaYADp6dQnfCoRgBIPTrSKiOm1h6QYWJF1kQci7xfdi9tccqrfedsmWOtREbblzO3MxyKN9wKLHtX7ItoI8CJj4BW5R8QUnwka_edfjB1wINUzAY0YJAuQiSEDaQMFiPg8JcI7YxtzwFbdB6heKzHTEMKMOWwTQQxsxFIdPBJipnNjwAyuAJSOIATf9FwnzqriFsSd3SIZh7Lfjca09SPNOiWgOn6SeQ515tcjKeU",
+        "e": "AQAB",
+        "alg": "RS256",
+        "use": "sig"
+      }
+]
